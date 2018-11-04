@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Contact">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80sp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80sp"
+                android:padding="10sp"
+                android:textSize="18dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="#000000"
+                android:textColor="#ffffff"
+                android:text="CONTACTS"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80sp"
+                android:layout_gravity="center"
+                android:text="Disaster Management Helpline - 1916"
+                android:textAlignment="center"
+                android:background="#BBBBBB"
+                android:textColor="#000000"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80sp"
+                android:layout_gravity="center"
+                android:text="Telephones: +91-11-26701700"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80sp"
+                android:layout_gravity="center"
+                android:text="Control Room: +91-11-26701728"
+                android:textAlignment="center"
+                android:background="#BBBBBB"
+                android:textColor="#000000"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80sp"
+                android:layout_gravity="center"
+                android:text="Helpline Number: 011-1078"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80sp"
+                android:layout_gravity="center"
+                android:text="Fax: +91-11-26701729"
+                android:textAlignment="center"
+                android:background="#BBBBBB"
+                android:textColor="#000000"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80sp"
+                android:layout_gravity="center"
+                android:text="Email : controlroom@ndma.gov.in"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="24sp" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

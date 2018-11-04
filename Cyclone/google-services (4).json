@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "366780301412",
+    "firebase_url": "https://cyclone-97c2e.firebaseio.com",
+    "project_id": "cyclone-97c2e",
+    "storage_bucket": "cyclone-97c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366780301412:android:ee93826609e92af3",
+        "android_client_info": {
+          "package_name": "com.example.anshumanyadav.cyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366780301412-o0k5vq5up7h2tubklsumdrpu2s1j7u5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzroLnJkFj4My4OCrIaoUg2pRj5Br9Zg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

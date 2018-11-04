@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "366780301412",
+    "firebase_url": "https://cyclone-97c2e.firebaseio.com",
+    "project_id": "cyclone-97c2e",
+    "storage_bucket": "cyclone-97c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366780301412:android:ee93826609e92af3",
+        "android_client_info": {
+          "package_name": "com.example.anshumanyadav.cyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366780301412-c5ukvv62ifab9ma7h3ackionf51bsqp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anshumanyadav.cyclone",
+            "certificate_hash": "ff83898ab91b57f2c4d86ca76a93146c4119c036"
+          }
+        },
+        {
+          "client_id": "366780301412-o0k5vq5up7h2tubklsumdrpu2s1j7u5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzroLnJkFj4My4OCrIaoUg2pRj5Br9Zg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366780301412-o0k5vq5up7h2tubklsumdrpu2s1j7u5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Timeline">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="100dp"
+                android:gravity="center"
+                android:textSize="24sp"
+                android:text="Oct 10, 2018
+15:32 (IST)"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:padding="10sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:text="As a result, the gale wind speed of 60-90 kmph is very likely to prevail over interior districts adjacent to south coastal Odisha during 11th morning to 11 afternoon and wind speed of 60-70 kmph over the interior districts adjacent to north coastal Odisha from 11 noon to night: IMD"
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="100dp"
+                android:gravity="center"
+                android:textSize="24sp"
+                android:text="Oct 10, 2018
+15:06 (IST)"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:padding="10sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:text="The very severe cyclonic storm, Titli is being monitored by the coastal Doppler Weather Radars at Visakhapatnam, Gopalpur, and Paradip. The latest observations indicate that the Severe Cyclone Titli over the west central Bay of Bengal moved northwestwards."
+
+                />
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="100dp"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:text="
+Oct 10, 2018
+15:05 (IST)"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:padding="10sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:text="Odisha Chief Minister Naveen Patnaik held a high-level meeting over Titli Cyclone in Bhubaneswar, today"
+
+            />
+    </LinearLayout>
+</LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
